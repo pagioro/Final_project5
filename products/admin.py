@@ -8,6 +8,8 @@ class ProductAdmin(admin.ModelAdmin):
         'sku',
         'name',
         'category',
+        'battery',
+        'screen_size', 
         'price',
         'rating',
         'image',
