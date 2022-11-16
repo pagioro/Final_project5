@@ -8,12 +8,11 @@ class ProductAdmin(admin.ModelAdmin):
         'sku',
         'name',
         'category',
-        'author',
         'price',
         'rating',
         'image',
     )
-    
+
     ordering = ('sku',)
 
 class CategoryAdmin(admin.ModelAdmin):
