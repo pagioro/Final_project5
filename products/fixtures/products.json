@@ -1,302 +1,77 @@
 [
    {
-      "pk":1,
+	"pk":1,
       "model":"products.product",
       "fields":{
-         "sku":"pp5001340155",
-         "name":"Agatha Christie a very elusive woman",
-         "author":"Worsley Lucy",
-         "description":"Agatha Christie a very elusive woman by Worsley Lucy",
-         "price":53.99,
-         "category":2,
-         "rating":4.6,
+         "sku":"BIO00001",
+         "name":"Biography",
+         "author":"Hermione Lee",
+         "description":"Biography is one of the most popular, best-selling, and widely-read of literary genres. But why do certain people and historical events arouse so much interest? How can biographies be compared with history and works of fiction? Does a biography need to be true? Is it acceptable to omit or conceal things? Does the biographer need to personally know the subject? Must a biographer be subjective? In this Very Short Introduction Hermione Lee considers the cultural and historical background of different types of biographies, looking at the factors that affect biographers and whether there are different strategies, ethics, and principles required for writing about one person compared to another. She also considers contemporary biographical publications and considers what kind of 'lives' are the most popular and in demand. ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, and enthusiasm to make interesting and challenging topics highly readable.",
+         "price":12.59,
+         "category":1,
+         "rating":3.8,
          "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0709201205510679M.jpg"
+         "image":"biography-hermione-lee.webp"
       }
    },
    {
       "pk":2,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5001600425",
-         "name":"Liz Claiborne Audra Classic Fit Straight Leg Pants",
-         "author":"Oscar Wilde",
-         "description":"Straight-leg styling and on-the-job comfort make our Audra pants a flattering business decision. flat front zip fly with hook-and-bar closure 2 front and 2 back welt pockets 34 1/2\" inseam polyester/rayon/spandex washable imported",
-         "price":58.99,
-         "category":4,
-         "rating":4.6,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0113201617034987M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0113201617034987M.jpg"
-      }
+         "model":"products.product",
+         "fields":{
+            "sku":"BIO00002",
+            "name":"Brief Lives",
+            "author":"John Aubrey",
+            "description":"John Aubrey's racy portraits of the great figures of 17th-centuryEngland stand alongside Pepys's diary as a vivid evocation of the period. Aubrey was born in 1626, the son of a Wiltshire squire; at the age of 26 he inherited a family estate encumbered with debt, and finally went bankrupt in the 1670s. From then on he led a sociable, rootless existence at the houses of friends - from Oxford and the Middle Temple -pursuing the antiquarian studies which had always obsessed him. At his death in 1697 he left a mass of notes and manuscripts, among them the material for Brief Lives. He never managed to put even a single life into logical order; all we have are the raw materials, scribbled down -`tumultuously as they occurred to my thoughts'. With this full, modern English edition, which reproduces Aubrey's words as closely as possible, Richard Barber introduces us to Aubrey and his world, tells how the Lives came into being and enables many new readers to enjoy this eccentric masterpiece.",
+            "price":30.79,
+            "category":1,
+            "rating":4.3,
+            "image_url":"",
+            "image":"brief-lives.webp"
+         }
    },
    {
       "pk":3,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5001730010",
-         "name":"Royal Velvet Matte Satin Square 3-pc. Coverlet Set",
-         "author":"Oscar Wilde",
-         "description":"Add a 5-star resort feel to your bedroom with the elegant Matte Satin Square coverlet set, featuring modern embroidered squares and flanged trim.  square embroidered pattern flanged-edge trim fabric is washable for easy care 3-piece set includes: coverlet 2 shams Polyester coverlet with cotton fill; polyester shams. Washable. Imported. Full/Queen: coverlet is 92x96\" King: coverlet is 110x96\"",
-         "price":205.99,
-         "category":2,
-         "rating":4.7,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP1230201417013175M.jpg"
-      }
+         "model":"products.product",
+         "fields":{
+            "sku":"BIO00003",
+            "name":"Journey Across Time",
+            "author":"Susan Gillerman Boggs",
+            "description":"Journey Across Time opens a window to life in South Asia, which has changed vastly since Susan Gillerman Boggs began living there as a diplomat's wife in 1985. In a captivating first-person narrative, Boggs takes the reader to remote places, many now closed to visitors. She describes experiences both exotic and hilarious, and adventures impossible to replicate. The author invites us to share the color and pageantry of festivals, religious rites, and parades of caparisoned elephants. She ventured into the Himalayas on perilous roads and was welcomed into a remote land of former headhunters. She dined with royalty and danced with a maharaja, conversed with Mother Teresa, met President Clinton, and appeared in a film starring Pierce Brosnan. She survived floods, political assassinations, and window-shattering bombs. She was bitten by a grouper in a coral lagoon, sneezed on by an elephant, and cornered in a cul-de-sac by angry bulls. Back on the home front, the author chronicles the daily joys and frustrations of diplomatic life with its cast of senior officials, moguls, intellectuals, and colorful characters. With verve and self-deprecating humor, she describes the tribulations of managing a diplomatic household and orchestrating official events despite personal dramas, logistic challenges, and power outages. Join her in a truly remarkable Journey Across Time.",
+            "price":18.19,
+            "category":1,
+            "rating":4.8,
+            "image_url":"",
+            "image":"journey-across-time.webp"
+         }
    },
    {
       "pk":4,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5001890157",
-         "name":"Gibson Infinite Glaze 16-pc. Dinnerware Set",
-         "author":"Oscar Wilde",
-         "description":"An exhibition in contrast, this dinnerware sets simple, clean design is perfect for both everyday use and special occasions. durable stoneware construction microwave and oven safe service for 4 16-piece set includes: four 10\" dinner plates four 7\" dessert plates four 6\" bowls four 12-ounce mugs Stoneware. Dishwasher safe. Imported.",
-         "price":169.99,
-         "category":2,
-         "rating":3.0,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0716201503423610M.jpg"
-      }
-   },
-   {
+         "model":"products.product",
+         "fields":{
+            "sku":"BIO00004",
+            "name":"Modern Architecture A-Z",
+            "author":"Jodidio Philip",
+            "description":"With more than 280 entries, this architectural A-Z, now part of our Bibliotheca Universalis series, offers an indispensable overview of the key players in the creation of modern space. From the period spanning the 19th to the 21st century, pioneering architects are featured with a portrait, concise biography, as well as a description of her or his important work. Like a bespoke global architecture tour, you'll travel from Manhattan skyscrapers to a Japanese concert hall, from Gaudì's Palau Güell in Barcelona to Lina Bo Bardi's sports and leisure center in a former factory site in São Paulo. You'll take in Gio Ponti's colored geometries, Zaha Hadid's free-flowing futurism, the luminous interiors of SANAA, and Charles Rennie Mackintosh's unique blend of Scottish tradition and elegant japonisme. The book's A to Z entries also cover groups, movements, and styles to position these leading individual architects within broader building trends across time and geography, including International Style, Bauhaus, De Stijl, and much more. With illustrations including some of the best architectural photography of the modern era, this is a comprehensive resource for any architecture professional, student, or devotee. About the series Bibliotheca Universalis - Compact cultural companions celebrating the eclectic TASCHEN universe!",
+            "price":22.40,
+            "category":1,
+            "rating":4.4,
+            "image_url":"",
+            "image":"modern-architecture-az.webp"
+         }
+      },
+      {
       "pk":5,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002111605",
-         "name":"Simply Calphalon Enameled Cast Iron Panini Pan",
-         "author":"Oscar Wilde",
-         "description":"Durable enameled cast iron construction allows the panini pan to heat evenly, so you can whip up a meal with ease and complete confidence.  cooks with little to no oils or fats so every recipe is healthier nonstick interior for quick and easy clean-ups stainless steel knob on cover enameled cast iron heats evenly and consistently stove, broiler and oven safe Cast iron/stainless steel. Dishwasher safe. Imported. ",
-         "price":232.99,
-         "category":3,
-         "rating":5.0,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP1115201210371197C.jpg"
+         "model":"products.product",
+         "fields":{
+            "sku":"BIO00005",
+            "name":"Biography",
+            "author":"Rudolf Steiner",
+            "description":"The path of an individual human life, our biography, is a kind of mystery. Despite the abundance of published biographies and autobiographies of celebrities and historical figures, scientific study of human biography remains in its infancy, with little understanding of the inherent laws in the path of an individual's life. Yet as Rudolf Steiner shows here, every biography--regardless of one's place in life or a person's perceived importance or success--is ruled by archetypal influences, patterns and laws. This broad-ranging anthology addresses critical and still-unanswered questions: What are the effects of education--especially contrasting educational methods--on later life? How are the stages of one's life interrelated? Do the effects of events on the individual become immediately evident, or is their true impact delayed, perhaps for decades? To what extent can we shape the stages of our individual biographies? How much freedom of choice do we have, and how much of life is predetermined? Drawing on his capacity for higher knowledge through spiritual research, Steiner describes the human individuality as a being with a continuing existence, both before birth and beyond death. Our eternal being experiences a myriad of conditions and situations, the effects of which may be observed in one's biography. This book addresses these and other issues such as freedom and destiny, the effects of heredity, illness, and the impact of education, offering answers based on a profound knowledge of the human being.",
+            "price":18.59,
+            "category":1,
+            "rating":4.2,
+            "image_url":"",
+            "image":"biography-rudolf-steiner.webp"
+         }
       }
-   },
-   {
-      "pk":6,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002260206",
-         "name":"The Foundry Supply Co. Solid Pocket TeeBig & Tall",
-         "author":"Oscar Wilde",
-         "description":"Get a better basic tee in a size that truly fits with this pocket t-shirt from The Foundry Supply Co.  short-sleeve, crew-neck tee left chest pocket 100% cotton washable imported",
-         "price":30.99,
-         "category":4,
-         "rating":4.7,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0624201520422666C.jpg"
-      }
-   },
-   {
-      "pk":7,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002440521",
-         "name":"Liz Claiborne Classic Sophie Secretly Slender Trouser Leg Pants - Plus",
-         "author":"Oscar Wilde",
-         "description":"Walk a little taller in our slimming straight-leg pants. flat front slim fit straight leg front fly with nylon zipper, hook and bar closure 32\" inseam polyester/rayon/spandex washable imported ",
-         "price":59.0,
-         "category":5,
-         "rating":4.4,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0226201317034754M.jpg"
-      }
-   },
-   {
-      "pk":8,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002601115",
-         "name":"Rachael Ray Ceramic Olive Oil Dispenser",
-         "author":"Oscar Wilde",
-         "description":"This olive oil dispenser is designed for storing extra virgin olive oil, so it's close at hand for drizzling on food.  24-ounce capacity cruet opaque bottle and non-porous glazed interior keep oil in the dark to avoid oxidation and preserve taste playful, contemporary design Stoneware. Dishwasher-safe. Imported.",
-         "price":36.99,
-         "category":1,
-         "rating":4.5,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP0926201317071162M.jpg"
-      }
-   },
-   {
-      "pk":9,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002690715",
-         "name":"Protech Performance Sheet Set",
-         "author":"Oscar Wilde",
-         "description":"Protech sheets are like activewear for your bed! The same cutting edge technology that is used in today's sportswear is also used in these Protech Plus sheets to give you a better night's sleep. Breathable ultra-fine microfiber wicks away moisture, keeping your body cool throughout the night while a 4-way stretch component allows you comfort in movement. This stretching ability also helps while making the bed, fitting most premium size mattresses; you won't have to struggle to get the sheets to fit all the way around.  4-way stretch component allows you comfort in movement available in a variety of solid colors microfiber knit fits mattresses up to 19\" deep Set includes: fitted sheet flat sheet 2 pillowcases Polyester/spandex. Washable. Imported. Full: 54x75 Queen: 60x80 King: 78x80 Cal. King: 72x84",
-         "price":169.99,
-         "category":2,
-         "rating":4.7,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP1020201517025390M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP1020201517025390M.jpg"
-      }
-   },
-   {
-      "pk":10,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002701115",
-         "name":"Reflections Set of 4 Microfiber Napkins",
-         "author":"Oscar Wilde",
-         "description":"Complete the look of your table setting with these easy-care microfiber napkins.  great for everyday use or entertaining liquid-resistant design helps protect against spills set of 4 Polyester.Each measures 19x19\". Washable. Imported.",
-         "price":33.99,
-         "category":4,
-         "rating":4.4,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP0418201317011949M.jpg"
-      }
-   },
-   {
-      "pk":11,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002761055",
-         "name":"Chef Designs Black-Trimmed Cook ShirtBig & Tall",
-         "author":"Oscar Wilde",
-         "description":"Stylish black-trim cook shirt from Chef Designs is just what you need for a confident, professional presence in the kitchen.  contrasting black stand collar black front buttons left chest pocket short hemmed sleeves squared bottom hem polyester/cotton washable imported of domestic fabric more sizes: regular, big",
-         "price":29.99,
-         "category":2,
-         "rating":3.0,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"0900631B81B0C2D9M.jpg"
-      }
-   },
-   {
-      "pk":12,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002820069",
-         "name":"Nike 3-pk. Performance Crew Socks - Boys",
-         "author":"Oscar Wilde",
-         "description":"Keep him moving in comfort all day with quality Nike crew socks.  arch support reinforced toe and heel cotton/polyester/spandex washable imported",
-         "price":19.99,
-         "category":1,
-         "rating":4.6,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP0510201317010521M.jpg"
-      }
-   },
-   {
-      "pk":13,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002820147",
-         "name":"Champion Jersey Tee",
-         "author":"Oscar Wilde",
-         "description":"Compete, exercise or simply relax in comfort with a classic tee from Champion, the brand that's been making quality athletic apparel since 1919.  regular fit crewneck taped neck left chest logo embroidery cotton except oxford and granite heather are cotton/polyester washable imported",
-         "price":20.0,
-         "category":2,
-         "rating":3.2,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP0430201405053680M.jpg"
-      }
-   },
-   {
-      "pk":14,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002910572",
-         "name":"Stafford 4-pk. Blended Cotton A-Shirts",
-         "author":"Oscar Wilde",
-         "description":"Stafford Big & Tall ribbed athletic t-shirts deliver the tagless comfort and breathable performance he needs.  super soft, quick-drying, durable fabric preshrunk for lasting fit reinforced durable stitching tag free cotton/polyester washable imported ",
-         "price":26.99,
-         "category":5,
-         "rating":4.7,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"0900631B81C9387BM.jpg"
-      }
-   },
-   {
-      "pk":15,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5002990740",
-         "name":"Stafford 4-pk. Heavyweight Crewneck T-ShirtsBig & Tall",
-         "author":"Oscar Wilde",
-         "description":"Soft and comfortable, two of his favorite things together in this heavyweight cotton tee from Stafford.  combed cotton heavier fabric for durability preshunk for lasting fit premium seaming reduces twisting tag free cotton washable imported",
-         "price":48.99,
-         "category":5,
-         "rating":4.8,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP1029201317111469M.jpg"
-      }
-   },
-   {
-      "pk":16,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5003050248",
-         "name":"Levi's 529 Curvy Bootcut Jeans",
-         "author":"Oscar Wilde",
-         "description":"Levis 529 curvy bootcut jeans are flattering and perfect for any timeday or night.  sits below the waist slim fit through hip and thigh bootcut leg with 18\" opening smooth bottom 8\" front rise; 15\" back rise cotton/polyester/elastane washable imported misses average: 32\" inseam ",
-         "price":65.99,
-         "category":2,
-         "rating":4.4,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0918201520303373C.jpg"
-      }
-   },
-   {
-      "pk":17,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5003070787",
-         "name":"Worthington Essential Short-Sleeve Tee - Plus",
-         "author":"Oscar Wilde",
-         "description":"Our stretchy jersey knit tee's gently pleated neckline makes a simply sweet impression.  pleated u-neck short sleeves polyester/spandex washable imported ",
-         "price":33.99,
-         "category":5,
-         "rating":4.4,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP1119201520340305C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP1119201520340305C.jpg"
-      }
-   },
-   {
-      "pk":18,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5003090182",
-         "name":"Marvel Comics Avengers Hulk Pillow Buddy",
-         "author":"Oscar Wilde",
-         "description":"The Hulk may be tough, but he's actually a real softy. Get to know his softer side with this fun Hulk-shaped pillow.  adds a playful layer of texture and comfort to bed's decor measures 15x9x20\"H Polyester with polyester fill. Spot clean. Imported.",
-         "price":59.99,
-         "category":2,
-         "rating":4.8,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP0807201317072274M.jpg"
-      }
-   },
-   {
-      "pk":19,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5003090186",
-         "name":"Marvel Spiderman Pillow Buddy",
-         "author":"Oscar Wilde",
-         "description":"Now your child can sling webs next to his favorite wall crawler with this Spider-Man pillow buddy. shaped like everyone's favorite web head measures 15x9x20\"H Polyester with polyester fill. Spot clean. Imported.",
-         "price":60.99,
-         "category":2,
-         "rating":5.0,
-         "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072924M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-         "image":"DP0807201317072924M.jpg"
-      }
-   },
-   {
-      "pk":20,
-      "model":"products.product",
-      "fields":{
-         "sku":"pp5003161326",
-         "name":"JCPenney Home Oven Mitt",
-         "author":"Oscar Wilde",
-         "description":"Keep it cool in the kitchen with this lined oven mitt.  silicone grip protects hand from heat up to 350F contrast woven houndstooth trim fits comfortably on left or right hand handy hanging tie Sold individually. Cotton with cotton lining. Measures 7x13\". Washable. Imported. ",
-         "price":20.99,
-         "category":1,
-         "rating":4.7,
-         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0821201317103183M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0821201317103183M.jpg"
-      }
-   }
-]
+]    
